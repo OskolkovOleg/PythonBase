@@ -1,0 +1,4 @@
+int(input())
+
+
+print(f"{...}")
