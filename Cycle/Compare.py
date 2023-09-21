@@ -27,8 +27,10 @@ def loop3() -> int:
 def loop4() -> int:
     return numpy.sum(numpy.arange(value))
 
-
 print(f"loop1: {timeit.timeit(loop1, number=1)}")
 print(f"loop2: {timeit.timeit(loop2, number=1)}")
 print(f"loop3: {timeit.timeit(loop3, number=1)}")
 print(f"loop4: {timeit.timeit(loop4, number=1)}")
+
+
+

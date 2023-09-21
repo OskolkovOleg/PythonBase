@@ -42,6 +42,7 @@
 #     case _:
 #         print(f"defalt: {value}")
 
+print(round(2.5))
 
 # args = ["start", "help"]
 
