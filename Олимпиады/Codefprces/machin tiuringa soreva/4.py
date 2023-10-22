@@ -1,4 +1,0 @@
-int(input())
-
-
-print(f"{...}")
